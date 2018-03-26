@@ -22,3 +22,5 @@ Merging creativity with innovation- A Decentralized Reward Based Content Sharing
 # OUR VISION
 
 To provide a decentralized platform for talented people, to get paid while expressing their ideas. We will also encourage and combine innovation, charity, and talent so that our users can provide the best possible content to the community and to the world.
+
+<p>Join us on telegram for more info: <a href="https://t.me/THUGCOIN" rel="nofollow">Telegram</a></p>
