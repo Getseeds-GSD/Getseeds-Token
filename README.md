@@ -10,3 +10,5 @@ Merging creativity with innovation- A Decentralized Reward Based Content Sharing
     Token Decimals: 18
 
     Total Supply: 100,000,000,000 GSD
+    
+    https://i.imgur.com/iQ6Hej5.jpg[/img][/center]
