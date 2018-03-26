@@ -1,7 +1,7 @@
 # Getseeds-Token
 Merging creativity with innovation- A Decentralized Reward Based Content Sharing Platform with its own Cryptocurrency (Getseeds)
 
-![alt tag](https://github.com/Getseeds-GSD/Getseeds-Token/blob/master/SEEDERS%20SOCIAL%20NETWORK.png)
+![alt tag](https://github.com/Getseeds-GSD/Getseeds-Token/blob/master/Satchmo(1).png)
 
     Name of Token: Getseeds Token
 
