@@ -1,8 +1,7 @@
 # Getseeds-Token
 Merging creativity with innovation- A Decentralized Reward Based Content Sharing Platform with its own Cryptocurrency (Getseeds)
 
-![alt tag](https://github.com/Getseeds-GSD/Getseeds-Token/blob/master/seeders4.png)
-
+ ![alt tag](https://github.com/Getseeds-GSD/Getseeds-Token/blob/master/GETSEEDS%20TOKEN.jpg)
     Name of Token: Getseeds Token
 
     Token Standard: ERC-20 Token
@@ -12,5 +11,7 @@ Merging creativity with innovation- A Decentralized Reward Based Content Sharing
     Token Decimals: 18
 
     Total Supply: 100,000,000,000 GSD
+    
+    ![alt tag](https://github.com/Getseeds-GSD/Getseeds-Token/blob/master/seeders4.png)
     
    
