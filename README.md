@@ -23,6 +23,6 @@ Merging creativity with innovation- A Decentralized Reward Based Content Sharing
 
 To provide a decentralized platform for talented people, to get paid while expressing their ideas. We will also encourage and combine innovation, charity, and talent so that our users can provide the best possible content to the community and to the world.
 
-<p>Join us on telegram for more info: <a href="https://t.me/getseeds" rel="nofollow">Telegram</a></p>
+<p>Join us on Telegram for more info: <a href="https://t.me/getseeds" rel="nofollow">Telegram</a></p>
 
 <p>Check our <a href="http://getseeds.info" rel="nofollow">Website</a> and <a href="https://medium.com/@getseeds" rel="nofollow">Announcement Channel</a></p>
