@@ -11,5 +11,4 @@ Merging creativity with innovation- A Decentralized Reward Based Content Sharing
 
     Total Supply: 100,000,000,000 GSD
     
-    h2>HTML Image</h2>
-    <img src="pulpitrock.jpg" alt="Mountain View" width="500" height="377">
+   
