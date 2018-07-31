@@ -11,13 +11,15 @@ Merging creativity with innovation- A Decentralized Reward Based Content Sharing
 
     Token Decimals: 18
 
-    Total Supply: 100,000,000,000 GSD
+    Total Supply: 10,000,000,000 GSD
     
   ![alt tag](https://github.com/Getseeds-GSD/Getseeds-Token/blob/master/seeders4.png)
     
-   Calling all Bloggers and Artist!!!. Seeders is a social network that pays you to watch your content grow!
-   
-   At Seeders, we have developed a decentralized platform that rewards you for providing meaningful and insightful content. In doing so, bloggers and Artist earn tokens which can be converted into other currency, for talking about their interest, lifestyle, hobbies or just about anything.
+   Getseeds is a newly introduced cryptocurrency that operates through the Ethereum Decentralized Blockchain Network. Getseeds tokens will be used on the Dapp SeedersBlock; A pioneer in digital content rewards based on Proof of Creativity.
+
+SeedersBlock is a decentralized social media platform based on Ethereum blockchain technology that supports community building and social interaction with cryptocurrency rewards. The blockchain system reward bloggers, artistes, artists, comedians and other creatives including the user base for using the platform to showcase their talents to the world.
+
+SeedersBlock. As we call it, is a solution we offer using the Ethereum Blockchain by creating a decentralized content sharing platform that rewards its users with Getseeds Tokens, an ERC20 tokens built on Ethereum Blockchain With in-app wallet system that is fast, low transaction fees, in-built marketplace for Seeders to automatically monetize their goods and services and simple to use advertisement interphase and advanced dashboard system which enables each user to build their own creative portfolios. We bring you into a community that is solution driven.
 
 # OUR VISION
 
